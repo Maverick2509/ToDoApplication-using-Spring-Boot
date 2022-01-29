@@ -1,3 +1,4 @@
 build website:
   script:
+    - mvn install
     
