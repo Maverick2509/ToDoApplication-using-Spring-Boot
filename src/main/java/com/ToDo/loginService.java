@@ -5,8 +5,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class loginService {
 	
-	private String name="Abhishek";
-	private String password="Singh";
+	private String name="abhishek";
+	private String password="abhishek";
 	
 	public boolean match(String name, String password)
 	{
